@@ -1,0 +1,14 @@
+C:\alura\gestao-escolar\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\alura\gestao-escolar\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.AssemblyInfoInputs.cache
+C:\alura\gestao-escolar\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.AssemblyInfo.cs
+C:\alura\gestao-escolar\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.csproj.CoreCompileInputs.cache
+C:\alura\gestao-escolar\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.exe
+C:\alura\gestao-escolar\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.deps.json
+C:\alura\gestao-escolar\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.runtimeconfig.json
+C:\alura\gestao-escolar\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.dll
+C:\alura\gestao-escolar\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.pdb
+C:\alura\gestao-escolar\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.dll
+C:\alura\gestao-escolar\SegundoProjeto\obj\Debug\net8.0\refint\SegundoProjeto.dll
+C:\alura\gestao-escolar\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.pdb
+C:\alura\gestao-escolar\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.genruntimeconfig.cache
+C:\alura\gestao-escolar\SegundoProjeto\obj\Debug\net8.0\ref\SegundoProjeto.dll
