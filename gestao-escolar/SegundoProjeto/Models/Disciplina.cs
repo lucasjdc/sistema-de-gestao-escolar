@@ -1,12 +1,12 @@
 ﻿namespace SegundoProjeto.Models
 {
-    internal class Disciplina
+    class Disciplina
     {
         public string Nome { get; set; }
         public int CargaHoraria { get; set; }
         public override bool Equals(Object obj)
         {
-            if (obj in Disciplina)
+            if (obj is Disciplina)
             {
                 Disciplina d = obj as Disciplina;
                 return this.Nome.Equals(d.Nome);
