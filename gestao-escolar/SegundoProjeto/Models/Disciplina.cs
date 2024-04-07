@@ -18,5 +18,21 @@
         {
             return (11 + this.Nome == null ? 0 : this.Nome.GetHashCode());
         }
+
+        public HashSet<Disciplina> Disciplinas { get; } = new HashSet<Disciplina>();
+        public void RegistrarDisciplina(Disciplina d) 
+        {
+            d.Disciplinas.Add(d);
+        }
+
+        public int ObterQuantidadeDisciplinasDoCurso()
+        {
+            return Disciplinas.Count;
+        }
+
+        public Disciplina ObterDisciplinaPorNome(string nome)
+        {
+            return Disciplinas.Where<Disciplina>(n => n.Nome.Equals(nome)).FirstOrDefault();
+        }
     }
 }
